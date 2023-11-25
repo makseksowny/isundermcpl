@@ -2,8 +2,11 @@
 
 # INFORMACJE
 
-**Korzystamy z technologii:**
+**Z jakich korzystamy technologii?** \
 python, cloudflare, java
+
+**Jakich operatorów wspieramy?:** \
+icehost, skillhost, nhost, chunkserve
 
 # Poradniki:
 
@@ -23,3 +26,9 @@ python, cloudflare, java
 10 - Gratulacje twoja domena została pomyślnie skonfigurowana\
 **1b)** (Wersja PREMIUM) *Ta wersja NIE wymaga cloudflare i, aby każdy kto się łączy na sklep miał ipv6 albo ipv4.*\
 1 - Aby dostać tą wersje PREMIUM skontaktuj się z nami na discordzie: https://is.undermc.pl/discord
+
+**2)** Jak wgrać plugin na serwer minecraft?
+
+1 - Pobierz plugin z tego linku: https://github.com/makseksowny/isundermcpl/releases \
+2 - Wgraj plugin na swój serwer minecraft \
+3 - Skonfiguruj config.yml pluginu
