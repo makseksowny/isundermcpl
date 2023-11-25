@@ -5,10 +5,10 @@
 **Z jakich korzystamy technologii?** \
 python, cloudflare, java
 
-**Jakich operatorów wspieramy?:** \
+**Jakich operatorów wspieramy?** \
 icehost, skillhost, nhost, chunkserve
 
-**Jakie silniki wspieramy?:** \
+**Jakie silniki wspieramy?** \
 spigot, bungeecord \
 *(Przeróbki, które mają prawie identyczny kod też są wspierane)*
 
